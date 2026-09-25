@@ -55,3 +55,20 @@ This project demonstrates an ESP32-based smart home system using Wokwi simulatio
 ## Simulation
 
 The project was developed and tested using Wokwi ESP32 simulation.
+
+## Project Screenshots
+
+### Final Wokwi Circuit
+![Final Circuit](screenshots/01_final_circuit.png)
+
+### Wi-Fi and MQTT Output
+![Wi-Fi MQTT Output](screenshots/02_wifi_mqtt_sensor_output.png)
+
+### Web Server Control
+![Web Server Control](screenshots/03_web_server_control.png)
+
+### ThingSpeak Cloud
+![ThingSpeak Cloud](screenshots/04_thingspeak_cloud.png)
+
+### Deep Sleep
+![Deep Sleep](screenshots/05_deep_sleep.png)
